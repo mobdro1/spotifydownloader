@@ -24,13 +24,9 @@ No installation, no login — just paste your Spotify link and download.
 - Mobile & desktop friendly
 - No popups, no ads
 
-## 📷 Screenshots
-
-Coming soon...
-
 ## 📣 Feedback
 
-If you find a bug or have a feature request, feel free to open an [Issue](https://github.com/mobdro1/spotdown/issues).
+If you find a bug or have a feature request, feel free to open an issue.
 
 ---
 
